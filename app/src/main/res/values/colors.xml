@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="custom_highlight_color">#1AE5FF</color>
+    <color name="custom_hint_text_color">#1AE5FF</color>
+    <color name="password_icon_color">#1AE5FF</color>
+</resources>

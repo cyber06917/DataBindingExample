@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataBindingExample</string>
+    <string name="app_logo_description">Company logo</string>
+    <string name="username_hint">User name</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="register_now">Register</string>
+</resources>
